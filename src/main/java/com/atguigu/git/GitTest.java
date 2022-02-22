@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("halo 2022");
         System.out.println("hello hot-fix");
         System.out.println("halo master");
+        System.out.println("halo hot-fix");
     }
 }
